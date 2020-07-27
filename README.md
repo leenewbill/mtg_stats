@@ -1,7 +1,7 @@
 # Project: mtg_stats
 
 # Description:
-- This program reads in a text file containing one Magic the Gathering card per line, then for each card, it scrapes EDHREC.com for the number of decks using the card and TCGPlayer.com for the card's market price. Finally, the script outputs all collected data to a CSV file for importing into a spreadsheet.
+- This Python program reads in a text file containing one Magic the Gathering card per line, then for each card, it scrapes EDHREC.com for the number of decks using the card and TCGPlayer.com for the card's market price. Finally, the script outputs all collected data to a CSV file for importing into a spreadsheet.
 
 # Prerequisites, Dependencies, Installation, & Deployment:
 - Python 3 - <https://www.python.org/>: 
