@@ -1,0 +1,5 @@
+# .gitignore
+cardlist.txt
+chromedriver
+mtg_out.csv
+
